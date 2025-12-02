@@ -1,6 +1,6 @@
 # Executive Performance Summary Dashboard 5-Year Analytical Report(2019-2023)
 
-![Dashboard Overview](Screenshot.png)
+![Dashboard Overview](Original.png)
 
 ## Executive Summary
 
