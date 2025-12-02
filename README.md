@@ -1,5 +1,7 @@
 # Executive Performance Summary Dashboard 5-Year Analytical Report(2019-2023)
 
+![Dashboard Overview](Screenshot%202025-12-02%20005620.png)
+
 ## Executive Summary
 
 This project analyzes five years of e-commerce performance (2019–2023) to identify trends in revenue, profit, customer behavior, product categories, and payment methods. The analysis revealed a growth phase peaking in 2021 followed by a two-year contraction, with **Electronics** and **Home Appliances** emerging as the most profitable categories and the **35–44 age group** driving consistent revenue. Key insights include a surge in **return rates (17% in 2023)**, volatile **payment method preferences** with **Cash On Delivery dominating**, and significant geographic profit swings, particularly in **China** and the **USA**. These findings highlight operational and market risks while guiding targeted strategies to optimize product mix, customer engagement, and international performance. Overall, the project delivers actionable insights to **improve profitability, stabilize customer retention, and inform data-driven strategic decisions**.
